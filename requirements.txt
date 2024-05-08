@@ -1,0 +1,7 @@
+websockets
+requests
+numpy
+pandas
+torch
+scipy
+sklearn
