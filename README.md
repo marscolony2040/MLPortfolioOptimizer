@@ -1,7 +1,7 @@
 # PortfolioForecaster
 
 ## Description
-This is a simple portfolio optimizer which uses PyTorch to forecast prices and compute historical and predicted Efficient Frontier charts, along with plotting all stocks and their predicted prices. In order for this program to work you must make a free FinancialModelingPrep API key.
+This is a simple portfolio optimizer which uses PyTorch and Scikit-Learn to forecast prices, classify long/short, and compute historical and predicted Efficient Frontier charts, along with plotting all stocks and their predicted prices. In order for this program to work you must make a free FinancialModelingPrep API key.
 
 ### Key Placement
 ![alt](https://github.com/mosharieff/PortfolioForecaster/blob/main/images/ky.png)
