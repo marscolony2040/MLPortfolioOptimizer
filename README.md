@@ -25,13 +25,10 @@ python server.py
 npm start
 ```
 
-## Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_9Eq4DyL7Lo/0.jpg)](https://www.youtube.com/watch?v=_9Eq4DyL7Lo)
-
 ## Pictures
 ### Home/Settings Page
-![alt](https://github.com/mosharieff/PortfolioForecaster/blob/main/images/home.png)
+![alt](https://github.com/marscolony2040/ML_Portfolio_Forecaster/blob/main/images/home.png)
 ### Portfolio Curve Page
-![alt](https://github.com/mosharieff/PortfolioForecaster/blob/main/images/pf.png)
+![alt](https://github.com/marscolony2040/ML_Portfolio_Forecaster/blob/main/images/pf.png)
 ### Predicted Prices Page
-![alt](https://github.com/mosharieff/PortfolioForecaster/blob/main/images/ps.png)
+![alt](https://github.com/marscolony2040/ML_Portfolio_Forecaster/blob/main/images/ps.png)
